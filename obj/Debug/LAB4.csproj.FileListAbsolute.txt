@@ -1,0 +1,6 @@
+E:\Studia\PIPO\LAB4\LAB4\LAB4\bin\Debug\LAB4.exe.config
+E:\Studia\PIPO\LAB4\LAB4\LAB4\bin\Debug\LAB4.exe
+E:\Studia\PIPO\LAB4\LAB4\LAB4\bin\Debug\LAB4.pdb
+E:\Studia\PIPO\LAB4\LAB4\LAB4\obj\Debug\LAB4.csprojAssemblyReference.cache
+E:\Studia\PIPO\LAB4\LAB4\LAB4\obj\Debug\LAB4.exe
+E:\Studia\PIPO\LAB4\LAB4\LAB4\obj\Debug\LAB4.pdb
